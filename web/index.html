@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>API test</title>
+  </head>
+  <body>
+    <main>
+      <ul></ul>
+    </main>
+    <script>
+      fetch('http://localhost:1234/pets')
+        .then(res => res.json())
+        .then(data => {
+          const card = data
+            .map(item => {
+              return `
+                <li>
+                  <img src="${item.poster}" />
+                  <h4>${item.breed}</h4>
+                </li>
+          `
+            })
+            .join('')
+
+          document.querySelector('ul').innerHTML = card
+        })
+    </script>
+  </body>
+</html>
