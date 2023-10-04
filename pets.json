@@ -1,0 +1,616 @@
+[
+  {
+    "id": "f352c54e-99f8-47f0-883f-2b5aa8e4457e",
+    "animal": "Dog",
+    "breed": "Golden_Retriever",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299091/pet-api/golden_rvvmsk.avif",
+    "height": {
+      "male": "60.9cm",
+      "female": "55.88cm"
+    },
+    "weight": {
+      "male": "31kg",
+      "female": "27kg"
+    },
+    "life_expectancy": 12,
+    "bred_for": "retriever",
+    "coat": {
+      "color": ["gold"],
+      "type": "long"
+    },
+    "temperament": [
+      "temparate",
+      "intelligent",
+      "affectionate",
+      "playful",
+      "friendly",
+      "good with children"
+    ],
+    "description": "Today, the golden retriever is not only good as a bird and family pet, it is popular for its service to disabled or blind people, and as search and rescue and contraband detection dogs. Few dogs can be as versatile as this breed."
+  },
+  {
+    "id": "b9b3a8c7-cdcb-4b8f-b2d6-6e5cf87001cf",
+    "animal": "Dog",
+    "breed": "Labrador_Retriever",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299086/pet-api/labrador_ztjrnf.avif",
+    "height": {
+      "male": "57cm - 62cm",
+      "female": "55cm - 60cm"
+    },
+    "weight": {
+      "male": "29kg - 36kg",
+      "female": "25kg - 32kg"
+    },
+    "life_expectancy": 12,
+    "bred_for": "retriever",
+    "coat": {
+      "color": ["black", "chocolate", "yellow", "gold"],
+      "type": "short"
+    },
+    "temperament": [
+      "outgoing",
+      "tempered",
+      "gentle",
+      "agile",
+      "friendly",
+      "intelligent"
+    ],
+    "description": "Labrador Retrievers are friendly, outgoing, and high-spirited companions who have more than enough affection to go around to a family looking for a medium-to-large dog."
+  },
+  {
+    "id": "0870ca10-4bdb-478f-ba64-18f9022a983c",
+    "animal": "Dog",
+    "breed": "German_Shepherd",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299086/pet-api/pastoraleman_salzxx.avif",
+    "height": {
+      "male": "60cm - 65cm",
+      "female": "55cm - 60cm"
+    },
+    "weight": {
+      "male": "30kg - 40kg",
+      "female": "22kg - 32kg"
+    },
+    "life_expectancy": 9,
+    "bred_for": "herding",
+    "coat": {
+      "color": ["black", "chocolate", "beige"],
+      "type": "medium"
+    },
+    "temperament": [
+      "courageous",
+      "confident",
+      "smart",
+      "loyal",
+      "protective",
+      "faithful"
+    ],
+    "description": "German Shepherds are courageous, confident, and smart. They are extremely faithful and have a high learning ability. German Shepherds love to be close to their families and are great with children."
+  },
+  {
+    "id": "7b358df5-956e-4de0-b78a-d6a31dff9025",
+    "animal": "Dog",
+    "breed": "Beagle",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299088/pet-api/beagle_g6ezry.avif",
+    "height": {
+      "male": "36cm - 41cm",
+      "female": "33cm - 38cm"
+    },
+    "weight": {
+      "male": "10kg - 11kg",
+      "female": "9kg - 10kg"
+    },
+    "life_expectancy": 15,
+    "bred_for": "hunting",
+    "coat": {
+      "color": [
+        "tri-color",
+        "lemon & white",
+        "red & white",
+        "chocolate tri",
+        "white & chocolate"
+      ],
+      "type": "short"
+    },
+    "temperament": [
+      "friendly",
+      "curious",
+      "merry",
+      "gentle",
+      "great with kids"
+    ],
+    "description": "Beagles are friendly, curious, and merry. They are great with kids and that makes them excellent family dogs. Beagles are also known for their incredible sense of smell and tracking instinct."
+  },
+  {
+    "id": "227d93ce-477a-4786-a315-9453233a9f7f",
+    "animal": "Dog",
+    "breed": "Bulldog",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299089/pet-api/bulldog_t8t5j0.avif",
+    "height": {
+      "male": "31cm - 40cm",
+      "female": "31cm - 40cm"
+    },
+    "weight": {
+      "male": "23kg - 25kg",
+      "female": "18kg - 23kg"
+    },
+    "life_expectancy": 8,
+    "bred_for": "bull-baiting",
+    "coat": {
+      "color": ["brindle", "solid white", "red", "fawn"],
+      "type": "short"
+    },
+    "temperament": ["docile", "willful", "friendly"],
+    "description": "Bulldogs are docile, willful, and friendly. They form strong bonds with children and are known for their loose, saggy skin and distinctive pushed-in nose."
+  },
+  {
+    "id": "8831c5c6-8823-40f2-bd2b-d122cedd9b19",
+    "animal": "Dog",
+    "breed": "Poodle",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299086/pet-api/poodle_toy_qibhge.avif",
+    "height": {
+      "male": "38cm - 61cm",
+      "female": "38cm - 61cm"
+    },
+    "weight": {
+      "male": "20kg - 32kg",
+      "female": "20kg - 32kg"
+    },
+    "life_expectancy": 15,
+    "bred_for": "water retrieving",
+    "coat": {
+      "color": ["white", "cream"],
+      "type": "curly"
+    },
+    "temperament": ["intelligent", "active", "alert", "faithful", "friendly"],
+    "description": "Poodles are intelligent, active, and alert. They are among the most intelligent dog breeds and are highly trainable. Poodles come in various sizes (toy, miniature, standard) and are known for their curly, hypoallergenic coat."
+  },
+  {
+    "id": "e68f5a43-159d-4cf9-88c5-9e5303f6e0a1",
+    "animal": "Dog",
+    "breed": "Siberian_Husky",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299086/pet-api/husky_rtvdle.avif",
+    "height": {
+      "male": "53cm - 60cm",
+      "female": "50cm - 56cm"
+    },
+    "weight": {
+      "male": "20.5kg - 27.5kg",
+      "female": "16kg - 23kg"
+    },
+    "life_expectancy": 12,
+    "bred_for": "sled pulling",
+    "coat": {
+      "color": ["black", "gray", "white", "sable"],
+      "type": "medium"
+    },
+    "temperament": ["outgoing", "gentle", "friendly", "intelligent"],
+    "description": "Siberian Huskies are outgoing and gentle. They are known for their friendly and intelligent nature. Huskies are strong, independent dogs bred to pull sleds in harsh climates."
+  },
+  {
+    "id": "5a2cbe57-1536-4c80-aed1-8f7e4ff39b36",
+    "animal": "Dog",
+    "breed": "Boxer",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299089/pet-api/boxer_diu3tx.avif",
+    "height": {
+      "male": "57cm - 63cm",
+      "female": "53cm - 59cm"
+    },
+    "weight": {
+      "male": "27kg - 32kg",
+      "female": "24kg - 29kg"
+    },
+    "life_expectancy": 10,
+    "bred_for": "hunting, holding",
+    "coat": {
+      "color": ["fawn", "brindle"],
+      "type": "short"
+    },
+    "temperament": ["playful", "energetic", "devoted", "loyal", "intelligent"],
+    "description": "Boxers are playful and energetic dogs. They are loyal and devoted to their families. Boxers are medium-sized dogs with strong, muscular builds."
+  },
+  {
+    "id": "0c435a1b-f0c9-4713-a189-d8d86c157b1a",
+    "animal": "Dog",
+    "breed": "Dachshund",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299087/pet-api/salchicha_vhdz3f.avif",
+    "height": {
+      "male": "20cm - 27cm",
+      "female": "20cm - 27cm"
+    },
+    "weight": {
+      "male": "7kg - 14kg",
+      "female": "7kg - 14kg"
+    },
+    "life_expectancy": 12,
+    "bred_for": "badger hunting",
+    "coat": {
+      "color": ["red", "cream", "black", "chocolate", "dapple"],
+      "type": "short"
+    },
+    "temperament": ["clever", "lively", "curious", "spunky"],
+    "description": "Dachshunds are clever and lively dogs. They have a curious and spunky nature. Dachshunds, also known as Wiener Dogs, have long bodies and short legs."
+  },
+  {
+    "id": "a4f6e3d2-85b7-4e14-9bc8-1f47c524ad11",
+    "animal": "Dog",
+    "breed": "Rottweiler",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299087/pet-api/rottweiler_krishu.avif",
+    "height": {
+      "male": "61cm - 69cm",
+      "female": "56cm - 63cm"
+    },
+    "weight": {
+      "male": "50kg - 60kg",
+      "female": "35kg - 48kg"
+    },
+    "life_expectancy": 10,
+    "bred_for": "cattle driving",
+    "coat": {
+      "color": ["black"],
+      "type": "short"
+    },
+    "temperament": ["good-natured", "fearless", "confident", "self-assured"],
+    "description": "Rottweilers are good-natured and confident dogs. They are fearless and self-assured, making them excellent guardians. Rottweilers have a distinctive black coat with tan markings."
+  },
+  {
+    "id": "c1a8e9b4-1f8e-4e84-946b-2b1fbf4ecae2",
+    "animal": "Dog",
+    "breed": "Pug",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299087/pet-api/pug_vpsck0.avif",
+    "height": {
+      "male": "25cm - 30cm",
+      "female": "25cm - 30cm"
+    },
+    "weight": {
+      "male": "6kg - 8kg",
+      "female": "6kg - 8kg"
+    },
+    "life_expectancy": 12,
+    "bred_for": "companion",
+    "coat": {
+      "color": ["fawn", "black"],
+      "type": "short"
+    },
+    "temperament": ["charming", "mischievous", "loving", "social"],
+    "description": "Pugs are charming and mischievous dogs. They are loving and social companions, known for their wrinkled face and curled tail. Pugs are excellent family pets."
+  },
+  {
+    "id": "ebd9b90a-d2a1-4c58-87ef-134a1fcdd8e3",
+    "animal": "Dog",
+    "breed": "Shih_Tzu",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299088/pet-api/shintzu_amwmqh.avif",
+    "height": {
+      "male": "20cm - 28cm",
+      "female": "20cm - 28cm"
+    },
+    "weight": {
+      "male": "4.5kg - 7.3kg",
+      "female": "4.5kg - 7.3kg"
+    },
+    "life_expectancy": 14,
+    "bred_for": "companion",
+    "coat": {
+      "color": ["beige", "black"],
+      "type": "long"
+    },
+    "temperament": ["affectionate", "outgoing", "friendly", "alert"],
+    "description": "Shih Tzus are affectionate and outgoing dogs. They are friendly and alert companions, known for their long, flowing coat and friendly personality. Shih Tzus make great lap dogs."
+  },
+  {
+    "id": "db9c72c9-ea22-4b74-8c7b-b5d624e568f0",
+    "animal": "Dog",
+    "breed": "Great_Dane",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299086/pet-api/grandanes_kaebcs.avif",
+    "height": {
+      "male": "76cm - 86cm",
+      "female": "71cm - 81cm"
+    },
+    "weight": {
+      "male": "54kg - 90kg",
+      "female": "45kg - 59kg"
+    },
+    "life_expectancy": 8,
+    "bred_for": "hunting",
+    "coat": {
+      "color": ["fawn", "brindle", "blue", "black"],
+      "type": "short"
+    },
+    "temperament": ["gentle", "affectionate", "friendly", "dependable"],
+    "description": "Great Danes are gentle and affectionate dogs. They are friendly and dependable companions, known for their enormous size and gentle temperament. Great Danes are often referred to as 'gentle giants.'"
+  },
+  {
+    "id": "f9e4521a-bd18-4b88-a664-5d68b66f5259",
+    "animal": "Dog",
+    "breed": "Doberman_Pinscher",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696299090/pet-api/doberman_yjuaap.avif",
+    "height": {
+      "male": "66cm - 71cm",
+      "female": "61cm - 66cm"
+    },
+    "weight": {
+      "male": "34kg - 41kg",
+      "female": "27kg - 36kg"
+    },
+    "life_expectancy": 10,
+    "bred_for": "guardian",
+    "coat": {
+      "color": ["black", "red", "blue", "fawn"],
+      "type": "short"
+    },
+    "temperament": ["loyal", "intelligent", "alert", "energetic"],
+    "description": "Doberman Pinschers are loyal and intelligent dogs. They are alert and energetic guardians, known for their sleek, muscular build and protective nature. Dobermans are highly trainable and make excellent working dogs."
+  },
+  {
+    "id": "5f839f54-9e16-44c2-8469-54646d7e3a4f",
+    "animal": "Cat",
+    "breed": "Persian",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696370096/pet-api/persa_ilrvlr.avif",
+    "height": {
+      "male": "25cm - 30cm",
+      "female": "25cm - 30cm"
+    },
+    "weight": {
+      "male": "3.5kg - 7kg",
+      "female": "3.5kg - 7kg"
+    },
+    "life_expectancy": 12,
+    "coat": {
+      "color": ["white", "black", "gray", "cream", "tabby"],
+      "type": "long"
+    },
+    "temperament": ["sweet", "gentle", "quiet", "affectionate"],
+    "description": "Persian cats are sweet and gentle companions. They have a quiet and affectionate nature, known for their long, luxurious coat and calm demeanor."
+  },
+  {
+    "id": "b22c719a-8874-4326-b457-2e3e6a413e0c",
+    "animal": "Cat",
+    "breed": "Maine_Coon",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696384489/pet-api/mainecoon_uqrkku.avif",
+    "height": {
+      "male": "28cm - 41cm",
+      "female": "23cm - 36cm"
+    },
+    "weight": {
+      "male": "5.9kg - 10.4kg",
+      "female": "4.5kg - 6.8kg"
+    },
+    "life_expectancy": 13,
+    "coat": {
+      "color": ["white", "black", "gray", "cream", "tabby"],
+      "type": "long"
+    },
+    "temperament": ["friendly", "intelligent", "gentle", "playful"],
+    "description": "Maine Coon cats are friendly and intelligent. They are gentle and playful companions, known for their large size, tufted ears, and bushy tail."
+  },
+  {
+    "id": "c1d1d0e7-d35f-4a34-9dcb-742b33a1a7d9",
+    "animal": "Cat",
+    "breed": "Siamese",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696370095/pet-api/siames_klye9d.avif",
+    "height": {
+      "male": "23cm - 25cm",
+      "female": "23cm - 25cm"
+    },
+    "weight": {
+      "male": "4kg - 6kg",
+      "female": "4kg - 6kg"
+    },
+    "life_expectancy": 15,
+    "coat": {
+      "color": ["cream", "fawn", "chocolate", "blue"],
+      "type": "short"
+    },
+    "temperament": ["affectionate", "social", "curious", "vocal"],
+    "description": "Siamese cats are affectionate and social. They are curious and vocal companions, known for their striking blue almond-shaped eyes and color-pointed coat."
+  },
+  {
+    "id": "a1b1e6c8-6e95-4aa3-a3a8-30c83a5b2e32",
+    "animal": "Cat",
+    "breed": "Bengal",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696370095/pet-api/bengal_uxo9ka.avif",
+    "height": {
+      "male": "25cm - 35cm",
+      "female": "25cm - 35cm"
+    },
+    "weight": {
+      "male": "4kg - 7kg",
+      "female": "4kg - 7kg"
+    },
+    "life_expectancy": 14,
+    "coat": {
+      "color": ["spots and marbling"],
+      "type": "short"
+    },
+    "temperament": ["active", "playful", "curious", "intelligent"],
+    "description": "Bengal cats are active and playful. They are curious and intelligent companions, known for their distinctive leopard-like spots and marbling on their coat."
+  },
+  {
+    "id": "d2a3f4b2-187a-4b7c-ba02-82c5466d3b5c",
+    "animal": "Cat",
+    "breed": "Ragdoll",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696370095/pet-api/ragdoll_nrtbox.avif",
+    "height": {
+      "male": "23cm - 25cm",
+      "female": "23cm - 25cm"
+    },
+    "weight": {
+      "male": "4.5kg - 9kg",
+      "female": "4.5kg - 9kg"
+    },
+    "life_expectancy": 15,
+    "coat": {
+      "color": ["white", "black", "gray", "cream", "tabby"],
+      "type": "long"
+    },
+    "temperament": ["gentle", "affectionate", "calm", "docile"],
+    "description": "Ragdoll cats are gentle and affectionate. They are calm and docile companions, known for their soft, semi-longcoat coat and tendency to go limp when picked up."
+  },
+  {
+    "id": "e4b6d5f9-8844-4b23-9ee6-b6c7ecf76ef1",
+    "animal": "Cat",
+    "breed": "Sphynx",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696370095/pet-api/esfinge_itrpf8.avif",
+    "height": {
+      "male": "20cm - 23cm",
+      "female": "20cm - 23cm"
+    },
+    "weight": {
+      "male": "3kg - 5.5kg",
+      "female": "3kg - 5.5kg"
+    },
+    "life_expectancy": 14,
+    "coat": {
+      "color": ["white", "black", "gray", "cream", "tabby"],
+      "type": "coatless"
+    },
+    "temperament": ["curious", "energetic", "friendly", "playful"],
+    "description": "Sphynx cats are curious and energetic. They are friendly and playful companions, known for their coatless appearance, wrinkled skin, and love for attention."
+  },
+  {
+    "id": "f7c8e9d0-aba3-4b10-9c93-18a65d153456",
+    "animal": "Cat",
+    "breed": "Scottish_Fold",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696370095/pet-api/scotish_jrc8zo.avif",
+    "height": {
+      "male": "20cm - 25cm",
+      "female": "20cm - 25cm"
+    },
+    "weight": {
+      "male": "3.5kg - 6.5kg",
+      "female": "3.5kg - 6.5kg"
+    },
+    "life_expectancy": 13,
+    "coat": {
+      "color": ["white", "black", "gray", "cream", "tabby"],
+      "type": "short"
+    },
+    "temperament": ["easygoing", "loving", "loyal", "playful"],
+    "description": "Scottish Fold cats are sweet-natured and loving. They are loyal and playful companions, known for their unique folded ears, round face, and charming personality."
+  },
+  {
+    "id": "d8e9f7c6-b5a4-4d87-8a2b-1c9e0d2f3e2d",
+    "animal": "Cat",
+    "breed": "British_Shortcoat",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696384489/pet-api/brtishshorthair_iot5ra.avif",
+    "height": {
+      "male": "25cm - 31cm",
+      "female": "25cm - 31cm"
+    },
+    "weight": {
+      "male": "4kg - 8kg",
+      "female": "4kg - 8kg"
+    },
+    "life_expectancy": 15,
+    "coat": {
+      "color": ["white", "black", "gray", "cream", "tabby"],
+      "type": "short"
+    },
+    "temperament": ["easygoing", "affectionate", "gentle", "loyal"],
+    "description": "British Shortcoat cats are easygoing and affectionate. They are gentle and loyal companions, known for their dense coat, round face, and calm demeanor."
+  },
+  {
+    "id": "e2d1c0b3-5a94-4f31-a8d0-1e0b2d3c4f6e",
+    "animal": "Cat",
+    "breed": "Birman",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696384489/pet-api/birman_bcztjv.avif",
+    "height": {
+      "male": "25cm - 31cm",
+      "female": "25cm - 31cm"
+    },
+    "weight": {
+      "male": "4kg - 7kg",
+      "female": "4kg - 7kg"
+    },
+    "life_expectancy": 16,
+    "coat": {
+      "color": ["colorpoint pattern"],
+      "type": "long"
+    },
+    "temperament": ["affectionate", "gentle", "playful", "intelligent"],
+    "description": "Birman cats are affectionate and gentle. They are playful and intelligent companions, known for their silky coat, colorpoint pattern, and friendly nature."
+  },
+  {
+    "id": "f6e5d4c3-b2a1-4f87-8c9e-1d0e2c1b3a2f",
+    "animal": "Cat",
+    "breed": "Russian_Blue",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696384489/pet-api/russianblue_pcqeog.avif",
+    "height": {
+      "male": "23cm - 30cm",
+      "female": "23cm - 30cm"
+    },
+    "weight": {
+      "male": "3.5kg - 6.5kg",
+      "female": "3.5kg - 6.5kg"
+    },
+    "life_expectancy": 15,
+    "coat": {
+      "color": ["blue-gray"],
+      "type": "short"
+    },
+    "temperament": ["gentle", "shy", "loyal", "affectionate"],
+    "description": "Russian Blue cats are gentle and shy. They are loyal and affectionate companions, known for their blue-gray coat, emerald-green eyes, and reserved nature."
+  },
+  {
+    "id": "c8b7a6d5-e4f3-4c2b-8e2a-1c3b2a1e0d2c",
+    "animal": "Cat",
+    "breed": "Abyssinian",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696384489/pet-api/abyssan_npufvx.avif",
+    "height": {
+      "male": "23cm - 30cm",
+      "female": "23cm - 30cm"
+    },
+    "weight": {
+      "male": "3kg - 5kg",
+      "female": "3kg - 5kg"
+    },
+    "life_expectancy": 15,
+    "coat": {
+      "color": ["ticked tabby"],
+      "type": "short"
+    },
+    "temperament": ["active", "playful", "social", "curious"],
+    "description": "Abyssinian cats are active and playful. They are social and curious companions, known for their ticked tabby coat, giving them a wild appearance."
+  },
+  {
+    "id": "b9a8c7d6-e3f4-4b2a-8c1b-1a2b3c4d5e6f",
+    "animal": "Cat",
+    "breed": "Egyptian_Mau",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696384489/pet-api/egyptian_lzh87g.avif",
+    "height": {
+      "male": "23cm - 30cm",
+      "female": "23cm - 30cm"
+    },
+    "weight": {
+      "male": "3kg - 5kg",
+      "female": "3kg - 5kg"
+    },
+    "life_expectancy": 14,
+    "coat": {
+      "color": ["spotted"],
+      "type": "short"
+    },
+    "temperament": ["agile", "playful", "loyal", "interactive"],
+    "description": "Egyptian Mau cats are agile and playful. They are loyal and interactive companions, known for their spotted coat and striking appearance."
+  },
+  {
+    "id": "a2b3c4d5-e6f7-4a5b-8c9d-1e0f2e3d4c5b",
+    "animal": "Cat",
+    "breed": "Oriental",
+    "poster": "https://res.cloudinary.com/dwv9pebu9/image/upload/v1696384567/pet-api/oriental_yzasyu.avif",
+    "height": {
+      "male": "23cm - 30cm",
+      "female": "23cm - 30cm"
+    },
+    "weight": {
+      "male": "3kg - 6kg",
+      "female": "3kg - 6kg"
+    },
+    "life_expectancy": 12,
+    "coat": {
+      "color": ["white", "black", "gray", "cream", "tabby"],
+      "type": "short"
+    },
+    "temperament": ["affectionate", "playful", "social", "vocal"],
+    "description": "Oriental cats are affectionate and playful. They are social and vocal companions, known for their diverse coat colors and patterns, similar to Siamese cats."
+  }
+]

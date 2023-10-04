@@ -1,0 +1,14 @@
+### Traer todas las mascotas
+GET http://localhost:1234/pets
+
+### Traer por query especifica
+GET http://localhost:1234/pets?animal=cat&temperament=affectionate
+
+### Traer mascota por ID
+GET http://localhost:1234/pets/7b358df5-956e-4de0-b78a-d6a31dff9025
+
+### Traer por raza
+GET http://localhost:1234/pets/breed/siamese
+
+### Traer por tipo
+GET http://localhost:1234/pets/animal/cat
